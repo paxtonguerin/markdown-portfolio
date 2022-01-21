@@ -1,1 +1,1 @@
-https://github.com/mcfefa/QuantPhysCollabPythonHW
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
